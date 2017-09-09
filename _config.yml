@@ -124,3 +124,5 @@ exclude:
   - ".sass-cache"
   - script
   - src
+
+theme: jekyll-theme-cayman
